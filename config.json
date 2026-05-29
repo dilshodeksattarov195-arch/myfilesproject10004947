@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcncrypt",
+        "uuid": 19139943,
+        "checksum": "bmic19"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
